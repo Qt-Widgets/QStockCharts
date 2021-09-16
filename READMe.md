@@ -1,11 +1,7 @@
 ### Simple QStockCharts
 
-![1](http://7qn7mv.com1.z0.glb.clouddn.com/ddui3.png)
+![1](./screenshot.png)
 
-![2](http://7qn7mv.com1.z0.glb.clouddn.com/ddui2.png)
-
-![3](http://7qn7mv.com1.z0.glb.clouddn.com/ddui1.png)
-
-* »ùÓÚQtWidgets¿ò¼Ü»æÖÆ·ÖÊ±Í¼
-* »ùÓÚÎÄ¼ş¶ÁÈ¡Êı¾İ
-* ¿ÉÒÔ×ÔÓÉ¶¨ÖÆÑùÊ½ ×ÔÓÉĞŞ¸Ä
+* åŸºäºQtWidgetsæ¡†æ¶ç»˜åˆ¶åˆ†æ—¶å›¾
+* åŸºäºæ–‡ä»¶è¯»å–æ•°æ®
+* å¯ä»¥è‡ªç”±å®šåˆ¶æ ·å¼ è‡ªç”±ä¿®æ”¹
